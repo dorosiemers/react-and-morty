@@ -13,10 +13,10 @@ function App() {
           <h2>Morty Smith</h2>
         </div>
         <nav>
-          <div></div>
-          <div></div>
-          <div></div>
-          <div></div>
+          <p>A</p>
+          <p>B</p>
+          <p>C</p>
+          <p>D</p>
         </nav>
       </main>
     </div>
